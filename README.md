@@ -1,2 +1,2 @@
 # konradc.github.io
-Test GitHub Pages
+Testing GitHub Pages
